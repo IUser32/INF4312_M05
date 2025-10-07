@@ -212,6 +212,7 @@
             // 
             AutoScaleDimensions = new SizeF(17F, 41F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = SystemColors.ActiveCaption;
             ClientSize = new Size(1412, 704);
             Controls.Add(mtbtMatricula);
             Controls.Add(btnLimpiar);
